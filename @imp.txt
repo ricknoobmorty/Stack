@@ -1,0 +1,1 @@
+Stack is first in last out
