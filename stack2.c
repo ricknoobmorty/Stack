@@ -8,7 +8,7 @@ static int n;
 
 struct stack
 {
-    // agar yaha *arr nhi use karte to variable size nhi bana pate, because if we used arr[] the program will thron an erro if we put any varible inside those sqaure brackets
+    // agar yaha *arr nhi use karte to variable size nhi bana pate, because if we used arr[] the program will throw an erro if we put any varible inside those sqaure brackets
     int *arr;
 };
 
